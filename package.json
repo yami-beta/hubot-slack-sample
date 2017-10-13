@@ -5,6 +5,7 @@
   "author": "yami_beta <yami-beta@users.noreply.github.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "@slack/client": "^3.14.1",
     "@slack/interactive-messages": "^0.2.0",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
